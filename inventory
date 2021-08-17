@@ -1,4 +1,2 @@
 [slurm]
-slurm01 ansible_host=165.22.248.25
-slurm02 ansible_host=165.22.255.246
-slurm03 ansible_host=165.22.255.249
+slurmy.windowpa.in
